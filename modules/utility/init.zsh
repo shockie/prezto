@@ -16,7 +16,8 @@ setopt CORRECT
 #
 # Aliases
 #
-
+alias z='j'
+alias be='bundle exec'
 # Disable correction.
 alias ack='nocorrect ack'
 alias cd='nocorrect cd'
